@@ -15,11 +15,11 @@ Built using **JavaScript, pdf.js, and mammoth.js**.
 
 
  🛠️ Tech Stack
-- **HTML5**
-- **CSS3 (Flexbox, Responsive Design)**
-- **JavaScript (Vanilla)**
-- **pdf.js** (for PDF parsing)
-- **mammoth.js** (for DOCX parsing)
+- HTML5
+- CSS3 
+- JavaScript 
+- pdf.js
+- mammoth.js
 
 
 📂 Project Structure
@@ -33,17 +33,16 @@ Built using **JavaScript, pdf.js, and mammoth.js**.
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/sadiyasultana/AI-Summarizer.git
-````
 
-2. Open `index.html` in your **web browser** (no server required).
+2. Open`index.html in your **web browser** .
 
 
 ## 📸 Screenshot
 ![App Screenshot](togo.png)
 
 
-
 👩‍💻 Author
 
 Built with ❤️ by **Sultana**
+
 
